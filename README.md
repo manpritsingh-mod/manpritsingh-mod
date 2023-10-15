@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manprit Singh</h1>
 <h3 align="center">A passionate frontend & Backend developer || App developer</h3>
 
-- 🌱 I’m currently learning **React JS || Mongo Db**
+- 🌱 I’m currently learning **Flutter || Dart**
 
 - 📫 How to reach me **smanprit022@gmail.com**
 
